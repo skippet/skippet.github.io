@@ -1,2 +1,2 @@
 # skippet.github.io
-Skippet website
+On our mission to make developer's work easy by amazing libraries and frameworks
